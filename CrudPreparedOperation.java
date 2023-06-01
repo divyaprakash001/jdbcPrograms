@@ -190,21 +190,7 @@ public class CrudPreparedOperation {
 			if (sc != null) {
 				sc.close();
 			}
-			if (pstmt != null) {
-				pstmt.close();
-			}
-			if (pstmt != null) {
-				pstmt.close();
-			}
-			if (pstmt != null) {
-				pstmt.close();
-			}
-			if (pstmt != null) {
-				pstmt.close();
-			}
-			if (pstmt != null) {
-				pstmt.close();
-			}
+			
 
 		}
 
